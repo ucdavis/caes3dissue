@@ -2,10 +2,46 @@
 <!--Copyright 2016, 3D Issue Ltd, All rights reserved-->
 <!--Mac OSX 10.140733193388044.140733193388038 Intel-->
 <value000>
-	<value030 value310="80" value701="989776" value702="158656" value702a="185487" value703a="158369:158656:185487:2017FallWinterOutlook" value704="" value705="1506556393369" value031="1275" value032="1650" optimumDPI="236" value040="24" value052a="1" value052b="175" value052c="140" value052e="" value052d="0xffffff" value051="intro.png" value051a="2" value051c="185" value051d="162" value051e="" value210="false" value213a="1" value213b="0" value213c="" value213d="0x1d1d1d" value189="false" value190="false" value190a="false" value311="CA&amp;ES Outlook" value311b="CA&amp;ES Outlook" value311c="UC Davis CA&amp;ES Outlook" value311d="" value312="English U.S." value201="1" value306="6" value315="25" value402="true" value300="" value196="false" value196u="false" value332="false" value333="true" value334="true" value304="false" value314="false" value703="true" value203="true" value207="true" value204a="5000" value202="l2r" value327="3" value327a="3" value034="0" value035="2" value037="3" value038="4" value039="5" value322="1" value171="6" value319="11" value301="7" value205="12" value204="0" value323="8" value206="9" value320="10" value318="12" value326="true" value195a="true" value195c="false" value195d="false" value195e="false" value195g="true" value195ea="0" value173="false" value174="false" value209="true" value209a="false" value325="ffffff" value325a="000000" value331="000000" value309="flip" value318b="thumbnails" value318a="top" value318c="1" value307="0" value307a="false" value307b="https://" value307c="false" value307d="https://" value307e="1" value194="php" value504="89" value505="236" value506="3" value507="1" optimizeIpad="true" universalAnalytics="true" value500="true" value328="false" value400="true" value400a="4" value401="" value401a="800" value401b="600" value313="" value195f="false" value170="2" value600="0" value601="0" value610="0" value611="0" value503="2017FallWinterOutlook" value508="http://www.3dissue.com/?utm_source=3dissue-logo&amp;utm_medium=referral&amp;utm_campaign=en"/>
+	<value030 value310="80" value701="989776" value702="158656" value702a="185487" value703a="158369:158656:185487:2017FallWinterOutlook" value704="" value705="1506636082386" value031="1275" value032="1650" optimumDPI="236" value040="24" value052a="1" value052b="175" value052c="140" value052e="" value052d="0xffffff" value051="intro.png" value051a="2" value051c="185" value051d="162" value051e="" value210="false" value213a="1" value213b="0" value213c="" value213d="0x1d1d1d" value189="false" value190="false" value190a="false" value311="CA&amp;ES Outlook" value311b="CA&amp;ES Outlook" value311c="UC Davis CA&amp;ES Outlook" value311d="" value312="English U.S." value201="1" value306="6" value315="25" value402="true" value300="" value196="false" value196u="false" value332="false" value333="true" value334="true" value304="false" value314="false" value703="true" value203="true" value207="true" value204a="5000" value202="l2r" value327="3" value327a="3" value034="0" value035="2" value037="3" value038="4" value039="5" value322="1" value171="6" value319="11" value301="7" value205="12" value204="0" value323="8" value206="9" value320="10" value318="12" value326="true" value195a="true" value195c="false" value195d="false" value195e="false" value195g="true" value195ea="0" value173="false" value174="false" value209="true" value209a="false" value325="ffffff" value325a="000000" value331="000000" value309="flip" value318b="thumbnails" value318a="top" value318c="1" value307="0" value307a="false" value307b="https://" value307c="false" value307d="https://" value307e="1" value194="php" value504="89" value505="236" value506="3" value507="1" optimizeIpad="true" universalAnalytics="true" value500="true" value328="false" value400="true" value400a="4" value401="" value401a="800" value401b="600" value313="" value195f="false" value170="2" value600="0" value601="0" value610="0" value611="0" value503="2017FallWinterOutlook" value508="http://www.3dissue.com/?utm_source=3dissue-logo&amp;utm_medium=referral&amp;utm_campaign=en"/>
 	<SEODescription><![CDATA[]]></SEODescription>
 	<SEOKeywords><![CDATA[Digital Magazine, Digital Edition, e-replica, e publishing, digital publishing software, eMag, PageFlip, 3dissue, 3D Issue]]></SEOKeywords>
 	<value002 lang="English U.S." flag="us">
+		<value790><![CDATA[Play Audio]]></value790>
+		<value791><![CDATA[Page Sound]]></value791>
+		<value792><![CDATA[Hotspot Sound]]></value792>
+		<value793><![CDATA[MORE]]></value793>
+		<value795><![CDATA[Facebook]]></value795>
+		<value670><![CDATA[New note]]></value670>
+		<value796><![CDATA[RSS]]></value796>
+		<value671><![CDATA[Bookmark]]></value671>
+		<value797><![CDATA[Twitter]]></value797>
+		<value672><![CDATA[Are you sure you want to delete these bookmarks?]]></value672>
+		<value798><![CDATA[Google+]]></value798>
+		<value673><![CDATA[New bookmark]]></value673>
+		<value799><![CDATA[YouTube]]></value799>
+		<value674><![CDATA[Share via]]></value674>
+		<value675><![CDATA[Yourself]]></value675>
+		<value676><![CDATA[Friend]]></value676>
+		<value677><![CDATA[Download the offline version?]]></value677>
+		<value678><![CDATA[Slide]]></value678>
+		<value679><![CDATA[Flip]]></value679>
+		<value812a><![CDATA[Autoflip On]]></value812a>
+		<value680><![CDATA[Pause]]></value680>
+		<value681><![CDATA[Play]]></value681>
+		<value682><![CDATA[Volume]]></value682>
+		<value683><![CDATA[Click to play]]></value683>
+		<value684><![CDATA[Clear Results]]></value684>
+		<value685><![CDATA[Are you sure you want to close the digital magazine?]]></value685>
+		<value686><![CDATA[Alert]]></value686>
+		<value687><![CDATA[File]]></value687>
+		<value688><![CDATA[could not be found.]]></value688>
+		<value600><![CDATA[Contents]]></value600>
+		<value689><![CDATA[Ok]]></value689>
+		<value601><![CDATA[Print]]></value601>
+		<value602><![CDATA[Download]]></value602>
+		<value603><![CDATA[Search]]></value603>
+		<value604><![CDATA[Share]]></value604>
+		<value605><![CDATA[Settings]]></value605>
 		<value606><![CDATA[Thumbnails]]></value606>
 		<value607><![CDATA[Archive]]></value607>
 		<value608><![CDATA[Help]]></value608>
@@ -70,7 +106,6 @@
 		<value636><![CDATA[Submit Error!]]></value636>
 		<value637><![CDATA[Please wait while sending your message]]></value637>
 		<value638><![CDATA[Error occur while sending your message]]></value638>
-		<value812a><![CDATA[Autoflip On]]></value812a>
 		<value760><![CDATA[Click and drag to turn page]]></value760>
 		<value761><![CDATA[PAGE THUMBNAILS]]></value761>
 		<value762><![CDATA[PAGE BUTTONS]]></value762>
@@ -92,14 +127,14 @@
 		<value805><![CDATA[Flickr]]></value805>
 		<value769><![CDATA[Image gallery]]></value769>
 		<value644><![CDATA[Page]]></value644>
-		<value806><![CDATA[Article]]></value806>
 		<value645><![CDATA[Print]]></value645>
-		<value807><![CDATA[Write]]></value807>
+		<value806><![CDATA[Article]]></value806>
 		<value646><![CDATA[Print Current]]></value646>
-		<value808><![CDATA[Email Article]]></value808>
+		<value807><![CDATA[Write]]></value807>
 		<value647><![CDATA[Print Selected]]></value647>
-		<value809><![CDATA[Tumblr]]></value809>
+		<value808><![CDATA[Email Article]]></value808>
 		<value648><![CDATA[printing pages]]></value648>
+		<value809><![CDATA[Tumblr]]></value809>
 		<value770><![CDATA[Username]]></value770>
 		<value771><![CDATA[Password]]></value771>
 		<value772><![CDATA[Login]]></value772>
@@ -153,41 +188,6 @@
 		<value667><![CDATA[Add]]></value667>
 		<value668><![CDATA[Cancel]]></value668>
 		<value669><![CDATA[Are you sure you want to delete these notes?]]></value669>
-		<value790><![CDATA[Play Audio]]></value790>
-		<value791><![CDATA[Page Sound]]></value791>
-		<value792><![CDATA[Hotspot Sound]]></value792>
-		<value793><![CDATA[MORE]]></value793>
-		<value795><![CDATA[Facebook]]></value795>
-		<value670><![CDATA[New note]]></value670>
-		<value796><![CDATA[RSS]]></value796>
-		<value671><![CDATA[Bookmark]]></value671>
-		<value797><![CDATA[Twitter]]></value797>
-		<value672><![CDATA[Are you sure you want to delete these bookmarks?]]></value672>
-		<value798><![CDATA[Google+]]></value798>
-		<value673><![CDATA[New bookmark]]></value673>
-		<value799><![CDATA[YouTube]]></value799>
-		<value674><![CDATA[Share via]]></value674>
-		<value675><![CDATA[Yourself]]></value675>
-		<value676><![CDATA[Friend]]></value676>
-		<value677><![CDATA[Download the offline version?]]></value677>
-		<value678><![CDATA[Slide]]></value678>
-		<value679><![CDATA[Flip]]></value679>
-		<value680><![CDATA[Pause]]></value680>
-		<value681><![CDATA[Play]]></value681>
-		<value682><![CDATA[Volume]]></value682>
-		<value683><![CDATA[Click to play]]></value683>
-		<value684><![CDATA[Clear Results]]></value684>
-		<value685><![CDATA[Are you sure you want to close the digital magazine?]]></value685>
-		<value686><![CDATA[Alert]]></value686>
-		<value687><![CDATA[File]]></value687>
-		<value688><![CDATA[could not be found.]]></value688>
-		<value600><![CDATA[Contents]]></value600>
-		<value689><![CDATA[Ok]]></value689>
-		<value601><![CDATA[Print]]></value601>
-		<value602><![CDATA[Download]]></value602>
-		<value603><![CDATA[Search]]></value603>
-		<value604><![CDATA[Share]]></value604>
-		<value605><![CDATA[Settings]]></value605>
 	</value002>
 	<ibuttons>
 		<value01>png</value01>
@@ -210,18 +210,18 @@
 	<value001>
 		<value012 value013="hot" value013a="wl" value014="3" value016="90" value017="888" value018="140" value019="15" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://outlook.ucdavis.edu"/>
 		<value012 value013="hot" value013a="em" value014="3" value016="75" value017="988" value018="191" value019="15" value019a="0" value022="Email us!" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="outlook@agdean.ucdavis.edu"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="416" value017="837" value018="255" value019="150" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="6"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="691" value017="839" value018="184" value019="150" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="8"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="973" value017="835" value018="213" value019="149" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="11"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="413" value017="1041" value018="203" value019="187" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="14"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="690" value017="1043" value018="260" value019="195" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="16"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="418" value017="1378" value018="225" value019="42" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="4"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="413" value017="1440" value018="201" value019="30" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="12"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="694" value017="1380" value018="212" value019="32" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="19"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="978" value017="1380" value018="175" value019="31" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="23"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="699" value017="1496" value018="192" value019="30" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="22"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="694" value017="1439" value018="249" value019="31" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="20"/>
-		<value012 value013="hot" value013a="gtp" value014="3" value016="416" value017="1498" value018="261" value019="26" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="18"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="416" value017="837" value018="255" value019="150" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="4"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="691" value017="839" value018="184" value019="150" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="6"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="975" value017="835" value018="213" value019="149" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="9"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="413" value017="1041" value018="203" value019="187" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="12"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="690" value017="1043" value018="260" value019="195" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="14"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="418" value017="1378" value018="225" value019="42" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="2"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="413" value017="1440" value018="201" value019="30" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="10"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="694" value017="1380" value018="212" value019="32" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="17"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="978" value017="1380" value018="175" value019="31" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="21"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="699" value017="1496" value018="192" value019="30" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="20"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="694" value017="1439" value018="249" value019="31" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="18"/>
+		<value012 value013="hot" value013a="gtp" value014="3" value016="416" value017="1498" value018="261" value019="26" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="16"/>
 		<value012 value013="hot" value013a="wl" value014="4" value016="173" value017="671" value018="187" value019="24" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://bit.ly/gray-whales"/>
 		<value012 value013="hot" value013a="wl" value014="4" value016="668" value017="521" value018="207" value019="24" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://www.caes.ucdavis.edu/connect/events/college-celebration"/>
 		<value012 value013="hot" value013a="wl" value014="5" value016="938" value017="791" value018="226" value019="20" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://ucdavis.edu/majors/blog"/>
