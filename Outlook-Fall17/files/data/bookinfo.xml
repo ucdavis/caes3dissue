@@ -2,26 +2,10 @@
 <!--Copyright 2016, 3D Issue Ltd, All rights reserved-->
 <!--Mac OSX 10.140733193388044.140733193388038 Intel-->
 <value000>
-	<value030 value310="80" value701="989776" value702="158656" value702a="185487" value703a="158369:158656:185487:2017FallWinterOutlook" value704="" value705="1506552062951" value031="1275" value032="1650" optimumDPI="236" value040="24" value052a="1" value052b="175" value052c="140" value052e="" value052d="0xffffff" value051="intro.png" value051a="2" value051c="185" value051d="162" value051e="" value210="false" value213a="1" value213b="0" value213c="" value213d="0x1d1d1d" value189="false" value190="false" value190a="false" value311="CA&amp;ES Outlook" value311b="CA&amp;ES Outlook" value311c="UC Davis CA&amp;ES Outlook" value311d="" value312="English U.S." value201="1" value306="6" value315="25" value402="true" value300="" value196="false" value196u="false" value332="false" value333="true" value334="true" value304="false" value314="false" value703="true" value203="true" value207="true" value204a="5000" value202="l2r" value327="3" value327a="3" value034="0" value035="2" value037="3" value038="4" value039="5" value322="1" value171="6" value319="11" value301="7" value205="12" value204="0" value323="8" value206="9" value320="10" value318="12" value326="true" value195a="true" value195c="false" value195d="false" value195e="false" value195g="true" value195ea="0" value173="false" value174="false" value209="true" value209a="false" value325="ffffff" value325a="000000" value331="000000" value309="flip" value318b="thumbnails" value318a="top" value318c="1" value307="0" value307a="false" value307b="https://" value307c="false" value307d="https://" value307e="1" value194="php" value504="89" value505="236" value506="3" value507="1" optimizeIpad="true" universalAnalytics="true" value500="true" value328="false" value400="true" value400a="4" value401="" value401a="800" value401b="600" value313="" value195f="false" value170="2" value600="0" value601="0" value610="0" value611="0" value503="2017FallWinterOutlook" value508="http://www.3dissue.com/?utm_source=3dissue-logo&amp;utm_medium=referral&amp;utm_campaign=en"/>
+	<value030 value310="80" value701="989776" value702="158656" value702a="185487" value703a="158369:158656:185487:2017FallWinterOutlook" value704="" value705="1506556393369" value031="1275" value032="1650" optimumDPI="236" value040="24" value052a="1" value052b="175" value052c="140" value052e="" value052d="0xffffff" value051="intro.png" value051a="2" value051c="185" value051d="162" value051e="" value210="false" value213a="1" value213b="0" value213c="" value213d="0x1d1d1d" value189="false" value190="false" value190a="false" value311="CA&amp;ES Outlook" value311b="CA&amp;ES Outlook" value311c="UC Davis CA&amp;ES Outlook" value311d="" value312="English U.S." value201="1" value306="6" value315="25" value402="true" value300="" value196="false" value196u="false" value332="false" value333="true" value334="true" value304="false" value314="false" value703="true" value203="true" value207="true" value204a="5000" value202="l2r" value327="3" value327a="3" value034="0" value035="2" value037="3" value038="4" value039="5" value322="1" value171="6" value319="11" value301="7" value205="12" value204="0" value323="8" value206="9" value320="10" value318="12" value326="true" value195a="true" value195c="false" value195d="false" value195e="false" value195g="true" value195ea="0" value173="false" value174="false" value209="true" value209a="false" value325="ffffff" value325a="000000" value331="000000" value309="flip" value318b="thumbnails" value318a="top" value318c="1" value307="0" value307a="false" value307b="https://" value307c="false" value307d="https://" value307e="1" value194="php" value504="89" value505="236" value506="3" value507="1" optimizeIpad="true" universalAnalytics="true" value500="true" value328="false" value400="true" value400a="4" value401="" value401a="800" value401b="600" value313="" value195f="false" value170="2" value600="0" value601="0" value610="0" value611="0" value503="2017FallWinterOutlook" value508="http://www.3dissue.com/?utm_source=3dissue-logo&amp;utm_medium=referral&amp;utm_campaign=en"/>
 	<SEODescription><![CDATA[]]></SEODescription>
 	<SEOKeywords><![CDATA[Digital Magazine, Digital Edition, e-replica, e publishing, digital publishing software, eMag, PageFlip, 3dissue, 3D Issue]]></SEOKeywords>
 	<value002 lang="English U.S." flag="us">
-		<value680><![CDATA[Pause]]></value680>
-		<value681><![CDATA[Play]]></value681>
-		<value682><![CDATA[Volume]]></value682>
-		<value683><![CDATA[Click to play]]></value683>
-		<value684><![CDATA[Clear Results]]></value684>
-		<value685><![CDATA[Are you sure you want to close the digital magazine?]]></value685>
-		<value686><![CDATA[Alert]]></value686>
-		<value687><![CDATA[File]]></value687>
-		<value688><![CDATA[could not be found.]]></value688>
-		<value600><![CDATA[Contents]]></value600>
-		<value689><![CDATA[Ok]]></value689>
-		<value601><![CDATA[Print]]></value601>
-		<value602><![CDATA[Download]]></value602>
-		<value603><![CDATA[Search]]></value603>
-		<value604><![CDATA[Share]]></value604>
-		<value605><![CDATA[Settings]]></value605>
 		<value606><![CDATA[Thumbnails]]></value606>
 		<value607><![CDATA[Archive]]></value607>
 		<value608><![CDATA[Help]]></value608>
@@ -58,10 +42,10 @@
 		<value620><![CDATA[Complete]]></value620>
 		<value746><![CDATA[This page is already bookmarked]]></value746>
 		<value621><![CDATA[Seeking]]></value621>
-		<value622><![CDATA[Email]]></value622>
 		<value747><![CDATA[of]]></value747>
-		<value623><![CDATA[Your name]]></value623>
+		<value622><![CDATA[Email]]></value622>
 		<value748><![CDATA[Add note]]></value748>
+		<value623><![CDATA[Your name]]></value623>
 		<value624><![CDATA[Your email Address]]></value624>
 		<value625><![CDATA[Your friend's Name]]></value625>
 		<value626><![CDATA[Your friend's email address]]></value626>
@@ -86,6 +70,7 @@
 		<value636><![CDATA[Submit Error!]]></value636>
 		<value637><![CDATA[Please wait while sending your message]]></value637>
 		<value638><![CDATA[Error occur while sending your message]]></value638>
+		<value812a><![CDATA[Autoflip On]]></value812a>
 		<value760><![CDATA[Click and drag to turn page]]></value760>
 		<value761><![CDATA[PAGE THUMBNAILS]]></value761>
 		<value762><![CDATA[PAGE BUTTONS]]></value762>
@@ -124,25 +109,25 @@
 		<value650><![CDATA[Zoom to double page]]></value650>
 		<value811><![CDATA[It seems you do not have Adobe Flash Player installed. You have been redirected to the HTML5 version.]]></value811>
 		<value775><![CDATA[Login Failed]]></value775>
-		<value812><![CDATA[Autoflip Off]]></value812>
 		<value651><![CDATA[Zoom to single page]]></value651>
+		<value812><![CDATA[Autoflip Off]]></value812>
 		<value776><![CDATA[Invalid username or password]]></value776>
-		<value813><![CDATA[Clipping tool]]></value813>
 		<value652><![CDATA[When zoomed in, navigate by moving the mouse]]></value652>
+		<value813><![CDATA[Clipping tool]]></value813>
 		<value777><![CDATA[Publication does not exist]]></value777>
 		<value653><![CDATA[When zoomed in, navigate by clicking and dragging the pages]]></value653>
 		<value778><![CDATA[Wrong information received]]></value778>
-		<value815><![CDATA[Clip it]]></value815>
 		<value654><![CDATA[Zoom to]]></value654>
+		<value815><![CDATA[Clip it]]></value815>
 		<value779><![CDATA[Too many unsuccessful login attempts. Account has been locked. Please contact publisher.]]></value779>
-		<value816><![CDATA[Translate]]></value816>
 		<value655><![CDATA[browser width]]></value655>
-		<value817><![CDATA[Left Page]]></value817>
+		<value816><![CDATA[Translate]]></value816>
 		<value656><![CDATA[Custom Zoom]]></value656>
-		<value818><![CDATA[Right Page]]></value818>
+		<value817><![CDATA[Left Page]]></value817>
 		<value657><![CDATA[Fullscreen]]></value657>
-		<value819><![CDATA[Double Page]]></value819>
+		<value818><![CDATA[Right Page]]></value818>
 		<value658><![CDATA[Bookmarks]]></value658>
+		<value819><![CDATA[Double Page]]></value819>
 		<value659><![CDATA[Notes]]></value659>
 		<value780><![CDATA[View]]></value780>
 		<value781><![CDATA[User Login]]></value781>
@@ -157,18 +142,17 @@
 		<value823><![CDATA[Click to read]]></value823>
 		<value662><![CDATA[Yes]]></value662>
 		<value787><![CDATA[Online media not available locally.]]></value787>
-		<value663><![CDATA[No]]></value663>
 		<value824><![CDATA[Close]]></value824>
 		<value788><![CDATA[Call:]]></value788>
-		<value664><![CDATA[New]]></value664>
+		<value663><![CDATA[No]]></value663>
 		<value789><![CDATA[HTML5 Animation]]></value789>
-		<value665><![CDATA[Delete]]></value665>
+		<value664><![CDATA[New]]></value664>
 		<value826><![CDATA[Webpage]]></value826>
+		<value665><![CDATA[Delete]]></value665>
 		<value666><![CDATA[Page]]></value666>
 		<value667><![CDATA[Add]]></value667>
 		<value668><![CDATA[Cancel]]></value668>
 		<value669><![CDATA[Are you sure you want to delete these notes?]]></value669>
-		<value812a><![CDATA[Autoflip On]]></value812a>
 		<value790><![CDATA[Play Audio]]></value790>
 		<value791><![CDATA[Page Sound]]></value791>
 		<value792><![CDATA[Hotspot Sound]]></value792>
@@ -188,6 +172,22 @@
 		<value677><![CDATA[Download the offline version?]]></value677>
 		<value678><![CDATA[Slide]]></value678>
 		<value679><![CDATA[Flip]]></value679>
+		<value680><![CDATA[Pause]]></value680>
+		<value681><![CDATA[Play]]></value681>
+		<value682><![CDATA[Volume]]></value682>
+		<value683><![CDATA[Click to play]]></value683>
+		<value684><![CDATA[Clear Results]]></value684>
+		<value685><![CDATA[Are you sure you want to close the digital magazine?]]></value685>
+		<value686><![CDATA[Alert]]></value686>
+		<value687><![CDATA[File]]></value687>
+		<value688><![CDATA[could not be found.]]></value688>
+		<value600><![CDATA[Contents]]></value600>
+		<value689><![CDATA[Ok]]></value689>
+		<value601><![CDATA[Print]]></value601>
+		<value602><![CDATA[Download]]></value602>
+		<value603><![CDATA[Search]]></value603>
+		<value604><![CDATA[Share]]></value604>
+		<value605><![CDATA[Settings]]></value605>
 	</value002>
 	<ibuttons>
 		<value01>png</value01>
@@ -229,7 +229,7 @@
 		<value012 value013="hot" value013a="wl" value014="8" value016="1086" value017="1427" value018="123" value019="22" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://www.caes.ucdavis.edu/news/Antarctica"/>
 		<value012 value013="hot" value013a="pvl" value014="10" value016="20" value017="51" value018="1229" value019="599" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.79" value023b="0xffffff" value024b="0.00" value025a="true" value025b="false" value020="TSTvkYCg6HI" value028="640" value029="480" value020b="" value022a="" value020d="youtube"/>
 		<value012 value013="hot" value013a="wl" value014="13" value016="685" value017="1502" value018="282" value019="20" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://caes.ucdavis.edu/news/Bodega"/>
-		<value012 value013="hot" value013a="pvl" value014="13" value016="39" value017="34" value018="1188" value019="702" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.78" value023b="0xffffff" value024b="0.00" value025a="true" value025b="false" value020="TSTvkYCg6HI" value028="640" value029="480" value020b="" value022a="" value020d="youtube"/>
+		<value012 value013="hot" value013a="pvl" value014="13" value016="39" value017="34" value018="1188" value019="702" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.78" value023b="0xffffff" value024b="0.00" value025a="true" value025b="false" value020="NLIHxHUgzsI" value028="640" value029="480" value020b="" value022a="" value020d="youtube"/>
 		<value012 value013="hot" value013a="wl" value014="17" value016="949" value017="1372" value018="143" value019="20" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://seafoodwatch.org"/>
 		<value012 value013="hot" value013a="wl" value014="24" value016="970" value017="1288" value018="261" value019="19" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://www.caes.ucdavis.edu/connect"/>
 	</value001>
