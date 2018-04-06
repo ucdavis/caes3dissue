@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<emails>
+	<sendtofriend>
+		<subject>
+			<name/>
+			<string><![CDATA[ sent you an article from UC Davis CA&ES Outlook!]]></string>
+		</subject>
+		<msg>
+			<name/>
+			<string><![CDATA[ (]]></string>
+			<email/>
+			<string><![CDATA[) sent you this article!]]></string>
+			<br/>
+			<br/>
+			<br/>
+			<url label="Click here to view article"/>
+			<br/>
+			<br/>
+			<string><![CDATA[URL: ]]></string>
+			<url/>
+			<br/>
+			<br/>
+			<string><![CDATA[Your friend's message: ]]></string>
+			<message/>
+		</msg>
+	</sendtofriend>
+	<sendcomment>
+		<subject>
+			<name/>
+			<string><![CDATA[ left you a comment!]]></string>
+		</subject>
+		<msg>
+			<name/>
+			<string><![CDATA[ (]]></string>
+			<email/>
+			<string><![CDATA[) left a comment on your digital magazine page located at the following URL!]]></string>
+			<br/>
+			<br/>
+			<url label=" Click here to view article page"/>
+			<br/>
+			<br/>
+			<string><![CDATA[Your reader's comment:]]></string>
+			<br/>
+			<br/>
+			<message/>
+		</msg>
+	</sendcomment>
+	<sendnotes>
+		<subject>
+			<name/>
+			<string><![CDATA[ sent you notes from UC Davis CA&ES Outlook!]]></string>
+		</subject>
+		<msg>
+			<name/>
+			<string><![CDATA[ (]]></string>
+			<email/>
+			<string><![CDATA[) emailed you these notes for the digital magazine located at the following URL!]]></string>
+			<br/>
+			<br/>
+			<br/>
+			<url/>
+			<br/>
+			<notes/>
+			<br/>
+			<message/>
+		</msg>
+	</sendnotes>
+	<sendbookmarks>
+		<subject>
+			<name/>
+			<string><![CDATA[ sent you bookmarks from UC Davis CA&ES Outlook!]]></string>
+		</subject>
+		<msg>
+			<name/>
+			<string><![CDATA[ (]]></string>
+			<email/>
+			<string><![CDATA[) emailed you these bookmarks for the digital magazine located at the following URL!]]></string>
+			<br/>
+			<br/>
+			<url/>
+			<br/>
+			<bookmarks/>
+			<br/>
+			<message/>
+		</msg>
+	</sendbookmarks>
+</emails>
