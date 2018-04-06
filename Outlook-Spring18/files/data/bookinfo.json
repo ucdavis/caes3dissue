@@ -407,24 +407,6 @@
                 {
                     "value013": "hot",
                     "value013a": "wl",
-                    "value014": "6",
-                    "value016": "942",
-                    "value017": "1122",
-                    "value018": "62",
-                    "value019": "23",
-                    "value019a": "0",
-                    "value020": "http://Huber.to",
-                    "value022": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false"
-                },
-                {
-                    "value013": "hot",
-                    "value013a": "wl",
                     "value014": "11",
                     "value016": "786",
                     "value017": "933",
@@ -585,12 +567,12 @@
                     "value013": "hot",
                     "value013a": "wl",
                     "value014": "22",
-                    "value016": "212",
+                    "value016": "214",
                     "value017": "1175",
                     "value018": "127",
                     "value019": "20",
                     "value019a": "0",
-                    "value020": "http://caes.cdavis.edu",
+                    "value020": "http://caes.ucdavis.edu",
                     "value022": "",
                     "value023a": "0xe7cd6c",
                     "value023b": "0xffffff",
@@ -1482,7 +1464,7 @@
             "value703": "true",
             "value703a": "158369:158656:185487:2018SpringSummerOutlook",
             "value704": "",
-            "value705": "1523033399712"
+            "value705": "1523034445216"
         }
     }
 }
