@@ -2,46 +2,10 @@
 <!--Copyright 2016, 3D Issue Ltd, All rights reserved-->
 <!--Mac OSX 140733193388042.140728898420749.105553116266502 Intel-->
 <value000>
-	<value030 value310="80" value701="989776" value702="158656" value702a="185487" value703a="158369:158656:185487:2018FallWinter" value704="" value705="1537824598166" value031="1256" value032="1631" optimumDPI="239" value040="24" value052a="0" value052b="175" value052c="140" value052e="" value052d="0xd19b07" value051="intro.png" value051a="2" value051c="185" value051d="162" value051e="" value210="false" value213a="0" value213b="0" value213c="" value213d="0x002855" value189="false" value190="false" value190a="false" value311="CA&amp;ES Outlook" value311b="CA&amp;ES Outlook" value311c="UC Davis CA&amp;ES Outlook" value311d="" value312="English U.S." value201="1" value306="6" value315="25" value402="true" value300="" value196="false" value196u="false" value332="false" value333="true" value334="true" value304="false" value314="false" value703="true" value203="true" value207="false" value204a="5000" value202="l2r" value327="3" value327a="3" value034="0" value035="2" value037="3" value038="4" value039="5" value322="1" value171="6" value319="11" value301="7" value205="12" value204="0" value323="8" value206="9" value320="10" value318="12" value326="true" value195a="true" value195c="false" value195d="false" value195e="false" value195g="true" value195ea="0" value173="false" value174="false" value209="true" value209a="false" value325="ffffff" value325a="000000" value331="000000" value309="flip" value318b="thumbnails" value318a="top" value318c="0" value307="0" value307a="false" value307b="https://" value307c="false" value307d="https://" value307e="1" value194="php" value504="89" value505="239" value506="3" value507="1" optimizeIpad="true" universalAnalytics="true" value500="true" value328="false" value400="true" value400a="4" value401="" value401a="800" value401b="600" value313="" value195f="false" value170="2" value600="0" value601="0" value610="0" value611="0" value503="2018FallWinter" value508="http://www.3dissue.com/?utm_source=3dissue-logo&amp;utm_medium=referral&amp;utm_campaign=en"/>
+	<value030 value310="80" value701="989776" value702="158656" value702a="185487" value703a="158369:158656:185487:2018FallWinter" value704="" value705="1537906550856" value031="1256" value032="1631" optimumDPI="239" value040="24" value052a="0" value052b="175" value052c="140" value052e="" value052d="0xd19b07" value051="intro.png" value051a="2" value051c="185" value051d="162" value051e="" value210="false" value213a="0" value213b="0" value213c="" value213d="0x002855" value189="false" value190="false" value190a="false" value311="CA&amp;ES Outlook" value311b="CA&amp;ES Outlook" value311c="UC Davis CA&amp;ES Outlook" value311d="" value312="English U.S." value201="1" value306="6" value315="25" value402="true" value300="" value196="false" value196u="false" value332="false" value333="true" value334="true" value304="false" value314="false" value703="true" value203="true" value207="false" value204a="5000" value202="l2r" value327="3" value327a="3" value034="0" value035="2" value037="3" value038="4" value039="5" value322="1" value171="6" value319="11" value301="7" value205="12" value204="0" value323="8" value206="9" value320="10" value318="12" value326="true" value195a="true" value195c="false" value195d="false" value195e="false" value195g="true" value195ea="0" value173="false" value174="false" value209="true" value209a="false" value325="ffffff" value325a="000000" value331="000000" value309="flip" value318b="thumbnails" value318a="top" value318c="0" value307="0" value307a="false" value307b="https://" value307c="false" value307d="https://" value307e="1" value194="php" value504="89" value505="239" value506="3" value507="1" optimizeIpad="true" universalAnalytics="true" value500="true" value328="false" value400="true" value400a="4" value401="" value401a="800" value401b="600" value313="" value195f="false" value170="2" value600="0" value601="0" value610="0" value611="0" value503="2018FallWinter" value508="http://www.3dissue.com/?utm_source=3dissue-logo&amp;utm_medium=referral&amp;utm_campaign=en"/>
 	<SEODescription><![CDATA[]]></SEODescription>
 	<SEOKeywords><![CDATA[Digital Magazine, Digital Edition, e-replica, e publishing, digital publishing software, eMag, PageFlip, 3dissue, 3D Issue]]></SEOKeywords>
 	<value002 lang="English U.S." flag="us">
-		<value627><![CDATA[Click here to add message]]></value627>
-		<value628><![CDATA[Submit]]></value628>
-		<value629><![CDATA[Reset]]></value629>
-		<value750><![CDATA[NEXT PAGE]]></value750>
-		<value751><![CDATA[PREVIOUS PAGE]]></value751>
-		<value752><![CDATA[Click anywhere on a page to zoom.]]></value752>
-		<value753><![CDATA[Click on]]></value753>
-		<value754><![CDATA[Buttons]]></value754>
-		<value755><![CDATA[Hotspots]]></value755>
-		<value630><![CDATA[Comment]]></value630>
-		<value756><![CDATA[for interactive features]]></value756>
-		<value757><![CDATA[and]]></value757>
-		<value632><![CDATA[Enter your name]]></value632>
-		<value758><![CDATA[(Click anywhere to close overlay)]]></value758>
-		<value633><![CDATA[Your email is not valid]]></value633>
-		<value759><![CDATA[Click and drag a corner to turn a page]]></value759>
-		<value634><![CDATA[Enter your friend's name]]></value634>
-		<value635><![CDATA[Your friends email is not valid]]></value635>
-		<value636><![CDATA[Submit Error!]]></value636>
-		<value637><![CDATA[Please wait while sending your message]]></value637>
-		<value638><![CDATA[Error occur while sending your message]]></value638>
-		<value760><![CDATA[Click and drag to turn page]]></value760>
-		<value761><![CDATA[PAGE THUMBNAILS]]></value761>
-		<value762><![CDATA[PAGE BUTTONS]]></value762>
-		<value763><![CDATA[Click on a thumbnail to jump to that page]]></value763>
-		<value764><![CDATA[Enter page number to jump to that page or click on navigation buttons]]></value764>
-		<value800><![CDATA[NO CONTENT FOUND]]></value800>
-		<value765><![CDATA[Would you like to view this in the]]></value765>
-		<value640><![CDATA[Your message is successfully sent!]]></value640>
-		<value801><![CDATA[Unfortunately we cannot seem to find any content from the URL you have chosen.]]></value801>
-		<value766><![CDATA[Select All]]></value766>
-		<value641><![CDATA[Search]]></value641>
-		<value802><![CDATA[Feature temporarily unavailable.]]></value802>
-		<value803><![CDATA[Slide Share]]></value803>
-		<value767><![CDATA[Select None]]></value767>
-		<value642><![CDATA[matches found]]></value642>
 		<value804><![CDATA[Vimeo]]></value804>
 		<value768><![CDATA[This feature is not available on 3D Issue's trial hosting. To see this feature in action, please upload to your own domain.]]></value768>
 		<value643><![CDATA[No matches found]]></value643>
@@ -91,20 +55,20 @@
 		<value783><![CDATA[View cart]]></value783>
 		<value820><![CDATA[Select Language]]></value820>
 		<value784><![CDATA[Add to cart]]></value784>
-		<value785><![CDATA[Enter text here...]]></value785>
 		<value660><![CDATA[View note]]></value660>
-		<value786><![CDATA[Choose which option you wish to download]]></value786>
+		<value785><![CDATA[Enter text here...]]></value785>
 		<value661><![CDATA[Note]]></value661>
-		<value823><![CDATA[Click to read]]></value823>
+		<value786><![CDATA[Choose which option you wish to download]]></value786>
 		<value662><![CDATA[Yes]]></value662>
+		<value823><![CDATA[Click to read]]></value823>
 		<value787><![CDATA[Online media not available locally.]]></value787>
+		<value663><![CDATA[No]]></value663>
 		<value824><![CDATA[Close]]></value824>
 		<value788><![CDATA[Call:]]></value788>
-		<value663><![CDATA[No]]></value663>
-		<value789><![CDATA[HTML5 Animation]]></value789>
 		<value664><![CDATA[New]]></value664>
-		<value826><![CDATA[Webpage]]></value826>
+		<value789><![CDATA[HTML5 Animation]]></value789>
 		<value665><![CDATA[Delete]]></value665>
+		<value826><![CDATA[Webpage]]></value826>
 		<value666><![CDATA[Page]]></value666>
 		<value667><![CDATA[Add]]></value667>
 		<value668><![CDATA[Cancel]]></value668>
@@ -150,7 +114,6 @@
 		<value609><![CDATA[Exit]]></value609>
 		<value690><![CDATA[Warning]]></value690>
 		<value691><![CDATA[Text cannot be entered in fullscreen mode. Would you like to exit fullscreen mode?]]></value691>
-		<value812a><![CDATA[Autoflip On]]></value812a>
 		<value692><![CDATA[Click and drag note to its location.]]></value692>
 		<value693><![CDATA[Paragraph]]></value693>
 		<value694><![CDATA[About Us]]></value694>
@@ -188,6 +151,43 @@
 		<value624><![CDATA[Your email Address]]></value624>
 		<value625><![CDATA[Your friend's Name]]></value625>
 		<value626><![CDATA[Your friend's email address]]></value626>
+		<value627><![CDATA[Click here to add message]]></value627>
+		<value628><![CDATA[Submit]]></value628>
+		<value629><![CDATA[Reset]]></value629>
+		<value812a><![CDATA[Autoflip On]]></value812a>
+		<value750><![CDATA[NEXT PAGE]]></value750>
+		<value751><![CDATA[PREVIOUS PAGE]]></value751>
+		<value752><![CDATA[Click anywhere on a page to zoom.]]></value752>
+		<value753><![CDATA[Click on]]></value753>
+		<value754><![CDATA[Buttons]]></value754>
+		<value755><![CDATA[Hotspots]]></value755>
+		<value630><![CDATA[Comment]]></value630>
+		<value756><![CDATA[for interactive features]]></value756>
+		<value757><![CDATA[and]]></value757>
+		<value632><![CDATA[Enter your name]]></value632>
+		<value758><![CDATA[(Click anywhere to close overlay)]]></value758>
+		<value633><![CDATA[Your email is not valid]]></value633>
+		<value759><![CDATA[Click and drag a corner to turn a page]]></value759>
+		<value634><![CDATA[Enter your friend's name]]></value634>
+		<value635><![CDATA[Your friends email is not valid]]></value635>
+		<value636><![CDATA[Submit Error!]]></value636>
+		<value637><![CDATA[Please wait while sending your message]]></value637>
+		<value638><![CDATA[Error occur while sending your message]]></value638>
+		<value760><![CDATA[Click and drag to turn page]]></value760>
+		<value761><![CDATA[PAGE THUMBNAILS]]></value761>
+		<value762><![CDATA[PAGE BUTTONS]]></value762>
+		<value763><![CDATA[Click on a thumbnail to jump to that page]]></value763>
+		<value764><![CDATA[Enter page number to jump to that page or click on navigation buttons]]></value764>
+		<value800><![CDATA[NO CONTENT FOUND]]></value800>
+		<value765><![CDATA[Would you like to view this in the]]></value765>
+		<value640><![CDATA[Your message is successfully sent!]]></value640>
+		<value801><![CDATA[Unfortunately we cannot seem to find any content from the URL you have chosen.]]></value801>
+		<value766><![CDATA[Select All]]></value766>
+		<value641><![CDATA[Search]]></value641>
+		<value802><![CDATA[Feature temporarily unavailable.]]></value802>
+		<value803><![CDATA[Slide Share]]></value803>
+		<value767><![CDATA[Select None]]></value767>
+		<value642><![CDATA[matches found]]></value642>
 	</value002>
 	<ibuttons>
 		<value01>png</value01>
@@ -228,9 +228,9 @@
 		<value012 value013="hot" value013a="wl" value014="5" value016="1009" value017="780" value018="137" value019="19" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://aes.ucdavis.edu"/>
 		<value012 value013="hot" value013a="wl" value014="5" value016="74" value017="1492" value018="241" value019="20" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://caes.ucdavis.edu/calendar"/>
 		<value012 value013="hot" value013a="wl" value014="12" value016="75" value017="1455" value018="239" value019="20" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://caes.ucdavis.edu/news/owl"/>
-		<value012 value013="vema" value014="12" value016="79" value017="133" value018="1135" value019="680" value019a="0" value022="" value020="N0mjvyZhgnQ" value020a="media/video/N0mjvyZhgnQ.jpg" value020b="" value020c="" value022a="" value020d="youtube"/>
+		<value012 value013="hot" value013a="vos" value014="12" value016="75" value017="111" value018="1050" value019="633" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="N0mjvyZhgnQ" value028="640" value029="480" value020b="" value022a="" value020d="youtube"/>
 		<value012 value013="hot" value013a="wl" value014="17" value016="635" value017="1481" value018="215" value019="18" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://caes.ucdavis.edu/news/first"/>
-		<value012 value013="vema" value014="17" value016="77" value017="17" value018="1062" value019="613" value019a="0" value022="" value020="eO8-W0ZwkNM" value020a="media/video/eO8-W0ZwkNM.jpg" value020b="" value020c="" value022a="" value020d="youtube"/>
+		<value012 value013="hot" value013a="vos" value014="17" value016="102" value017="52" value018="1037" value019="567" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="eO8-W0ZwkNM" value028="640" value029="480" value020b="" value022a="" value020d="youtube"/>
 		<value012 value013="hot" value013a="em" value014="18" value016="936" value017="1474" value018="170" value019="20" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="paleff@ucdavis.edu"/>
 		<value012 value013="hot" value013a="wl" value014="23" value016="552" value017="1476" value018="166" value019="18" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://caes.ucdavis.edu/soil"/>
 		<value012 value013="hot" value013a="wl" value014="24" value016="747" value017="1532" value018="436" value019="24" value019a="0" value022="" value023a="0xe7cd6c" value024a="0.40" value023b="0xffffff" value024b="0.00" value025a="false" value025b="false" value020="http://GIVE.UCDAVIS.EDU/GO/SMARTFARM"/>
