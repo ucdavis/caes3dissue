@@ -1,0 +1,1198 @@
+{
+    "value000": {
+        "SEODescription": {
+            "data": ""
+        },
+        "SEOKeywords": {
+            "data": "Digital Magazine, Digital Edition, e-replica, e publishing, digital publishing software, eMag, PageFlip, 3dissue, 3D Issue"
+        },
+        "ibuttons": {
+            "value01": "png",
+            "value02": "png",
+            "value03": "png",
+            "value04": "png",
+            "value05": "png",
+            "value06": "png",
+            "value07": "png",
+            "value08": "png",
+            "value09": "png",
+            "value10": "png",
+            "value11": "png",
+            "value12": "png",
+            "value13": "png",
+            "value14": "png",
+            "value15": "png",
+            "value16": "png"
+        },
+        "value001": {
+            "value012": [
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "3",
+                    "value016": "89",
+                    "value017": "849",
+                    "value018": "140",
+                    "value019": "15",
+                    "value019a": "0",
+                    "value020": "http://outlook.ucdavis.edu",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "em",
+                    "value014": "3",
+                    "value016": "73",
+                    "value017": "948",
+                    "value018": "191",
+                    "value019": "15",
+                    "value019a": "0",
+                    "value020": "outlook@agdean.ucdavis.edu",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "364",
+                    "value017": "807",
+                    "value018": "217",
+                    "value019": "170",
+                    "value019a": "0",
+                    "value020": "6",
+                    "value022": "Page 4",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "653",
+                    "value017": "810",
+                    "value018": "260",
+                    "value019": "159",
+                    "value019a": "0",
+                    "value020": "8",
+                    "value022": "Page 6",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "950",
+                    "value017": "811",
+                    "value018": "238",
+                    "value019": "177",
+                    "value019a": "0",
+                    "value020": "10",
+                    "value022": "Page 8",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "363",
+                    "value017": "1000",
+                    "value018": "255",
+                    "value019": "172",
+                    "value019a": "0",
+                    "value020": "14",
+                    "value022": "Page 12",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "666",
+                    "value017": "998",
+                    "value018": "258",
+                    "value019": "163",
+                    "value019a": "0",
+                    "value020": "16",
+                    "value022": "Page 14",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "950",
+                    "value017": "1002",
+                    "value018": "257",
+                    "value019": "163",
+                    "value019a": "0",
+                    "value020": "17",
+                    "value022": "Page 15",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "950",
+                    "value017": "1388",
+                    "value018": "174",
+                    "value019": "36",
+                    "value019a": "0",
+                    "value020": "23",
+                    "value022": "Page 21",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "661",
+                    "value017": "1391",
+                    "value018": "263",
+                    "value019": "32",
+                    "value019a": "0",
+                    "value020": "20",
+                    "value022": "Page 18",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "658",
+                    "value017": "1446",
+                    "value018": "198",
+                    "value019": "34",
+                    "value019a": "0",
+                    "value020": "22",
+                    "value022": "Page 20",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "363",
+                    "value017": "1446",
+                    "value018": "203",
+                    "value019": "34",
+                    "value019a": "0",
+                    "value020": "12",
+                    "value022": "Page 10",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "gtp",
+                    "value014": "3",
+                    "value016": "371",
+                    "value017": "1390",
+                    "value018": "224",
+                    "value019": "31",
+                    "value019a": "0",
+                    "value020": "4",
+                    "value022": "Page 2",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "4",
+                    "value016": "834",
+                    "value017": "1182",
+                    "value018": "290",
+                    "value019": "57",
+                    "value019a": "0",
+                    "value020": "http://caes.ucdavis.edu/events/college-celebration",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "4",
+                    "value016": "328",
+                    "value017": "1437",
+                    "value018": "214",
+                    "value019": "22",
+                    "value019a": "0",
+                    "value020": "http://caes.ucdavis.edu/MRR",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "5",
+                    "value016": "399",
+                    "value017": "1441",
+                    "value018": "262",
+                    "value019": "20",
+                    "value019a": "0",
+                    "value020": "http://caes.ucdavis.edu/strawberry",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "pvl",
+                    "value014": "5",
+                    "value016": "429",
+                    "value017": "942",
+                    "value018": "55",
+                    "value019": "55",
+                    "value019a": "0",
+                    "value020": "hP4KoJUQtfo",
+                    "value020b": "",
+                    "value020d": "youtube",
+                    "value022": "",
+                    "value022a": "",
+                    "value028": "640",
+                    "value029": "480"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "vos",
+                    "value014": "8",
+                    "value016": "187",
+                    "value017": "320",
+                    "value018": "920",
+                    "value019": "670",
+                    "value019a": "0",
+                    "value020": "U2jWEJXXnxo",
+                    "value020b": "",
+                    "value020d": "youtube",
+                    "value022": "",
+                    "value022a": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false",
+                    "value028": "640",
+                    "value029": "480"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "9",
+                    "value016": "932",
+                    "value017": "701",
+                    "value018": "247",
+                    "value019": "18",
+                    "value019a": "0",
+                    "value020": "http://caes.ucdavis.edu/news/smoke",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "9",
+                    "value016": "857",
+                    "value017": "1478",
+                    "value018": "291",
+                    "value019": "22",
+                    "value019a": "0",
+                    "value020": "http://bit.ly/Wildlife-Season-Impacts",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "9",
+                    "value016": "857",
+                    "value017": "1515",
+                    "value018": "286",
+                    "value019": "22",
+                    "value019a": "0",
+                    "value020": "http://bit.ly/UCDavis-Power-Outage",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "vos",
+                    "value014": "10",
+                    "value016": "151",
+                    "value017": "699",
+                    "value018": "859",
+                    "value019": "553",
+                    "value019a": "0",
+                    "value020": "_KkHBFnmSW4",
+                    "value020b": "",
+                    "value020d": "youtube",
+                    "value022": "",
+                    "value022a": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false",
+                    "value028": "640",
+                    "value029": "480"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "11",
+                    "value016": "982",
+                    "value017": "1191",
+                    "value018": "230",
+                    "value019": "21",
+                    "value019a": "0",
+                    "value020": "http://californiacitrusthreat.org",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "vos",
+                    "value014": "12",
+                    "value016": "203",
+                    "value017": "262",
+                    "value018": "912",
+                    "value019": "665",
+                    "value019a": "0",
+                    "value020": "adRjyC8JFMo",
+                    "value020b": "",
+                    "value020d": "youtube",
+                    "value022": "",
+                    "value022a": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false",
+                    "value028": "640",
+                    "value029": "480"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "13",
+                    "value016": "922",
+                    "value017": "1468",
+                    "value018": "248",
+                    "value019": "20",
+                    "value019a": "0",
+                    "value020": "http://caes.ucdavis.edu/news/food",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "22",
+                    "value016": "905",
+                    "value017": "1412",
+                    "value018": "199",
+                    "value019": "20",
+                    "value019a": "0",
+                    "value020": "http://uccalfresh.ucdavis.edu",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                },
+                {
+                    "value013": "hot",
+                    "value013a": "wl",
+                    "value014": "24",
+                    "value016": "764",
+                    "value017": "1525",
+                    "value018": "418",
+                    "value019": "26",
+                    "value019a": "0",
+                    "value020": "http://CAES.UCDAVIS.EDU/FOOD-LOSS",
+                    "value022": "",
+                    "value023a": "0xe7cd6c",
+                    "value023b": "0xffffff",
+                    "value024a": "0.40",
+                    "value024b": "0.00",
+                    "value025a": "false",
+                    "value025b": "false"
+                }
+            ]
+        },
+        "value002": {
+            "flag": "us",
+            "lang": "English U.S.",
+            "value600": {
+                "data": "Contents"
+            },
+            "value601": {
+                "data": "Print"
+            },
+            "value602": {
+                "data": "Download"
+            },
+            "value603": {
+                "data": "Search"
+            },
+            "value604": {
+                "data": "Share"
+            },
+            "value605": {
+                "data": "Settings"
+            },
+            "value606": {
+                "data": "Thumbnails"
+            },
+            "value607": {
+                "data": "Archive"
+            },
+            "value608": {
+                "data": "Help"
+            },
+            "value609": {
+                "data": "Exit"
+            },
+            "value610": {
+                "data": "Email:"
+            },
+            "value611": {
+                "data": "Web:"
+            },
+            "value612": {
+                "data": "Jump to page:"
+            },
+            "value613": {
+                "data": "Download file"
+            },
+            "value614": {
+                "data": "Audio clip"
+            },
+            "value615": {
+                "data": "Play flash file"
+            },
+            "value616": {
+                "data": "Play video clip"
+            },
+            "value617": {
+                "data": "Leave comment"
+            },
+            "value619": {
+                "data": "Ready"
+            },
+            "value620": {
+                "data": "Complete"
+            },
+            "value621": {
+                "data": "Seeking"
+            },
+            "value622": {
+                "data": "Email"
+            },
+            "value623": {
+                "data": "Your name"
+            },
+            "value624": {
+                "data": "Your email Address"
+            },
+            "value625": {
+                "data": "Your friend's Name"
+            },
+            "value626": {
+                "data": "Your friend's email address"
+            },
+            "value627": {
+                "data": "Click here to add message"
+            },
+            "value628": {
+                "data": "Submit"
+            },
+            "value629": {
+                "data": "Reset"
+            },
+            "value630": {
+                "data": "Comment"
+            },
+            "value632": {
+                "data": "Enter your name"
+            },
+            "value633": {
+                "data": "Your email is not valid"
+            },
+            "value634": {
+                "data": "Enter your friend's name"
+            },
+            "value635": {
+                "data": "Your friends email is not valid"
+            },
+            "value636": {
+                "data": "Submit Error!"
+            },
+            "value637": {
+                "data": "Please wait while sending your message"
+            },
+            "value638": {
+                "data": "Error occur while sending your message"
+            },
+            "value640": {
+                "data": "Your message is successfully sent!"
+            },
+            "value641": {
+                "data": "Search"
+            },
+            "value642": {
+                "data": "matches found"
+            },
+            "value643": {
+                "data": "No matches found"
+            },
+            "value644": {
+                "data": "Page"
+            },
+            "value645": {
+                "data": "Print"
+            },
+            "value646": {
+                "data": "Print Current"
+            },
+            "value647": {
+                "data": "Print Selected"
+            },
+            "value648": {
+                "data": "printing pages"
+            },
+            "value650": {
+                "data": "Zoom to double page"
+            },
+            "value651": {
+                "data": "Zoom to single page"
+            },
+            "value652": {
+                "data": "When zoomed in, navigate by moving the mouse"
+            },
+            "value653": {
+                "data": "When zoomed in, navigate by clicking and dragging the pages"
+            },
+            "value654": {
+                "data": "Zoom to"
+            },
+            "value655": {
+                "data": "browser width"
+            },
+            "value656": {
+                "data": "Custom Zoom"
+            },
+            "value657": {
+                "data": "Fullscreen"
+            },
+            "value658": {
+                "data": "Bookmarks"
+            },
+            "value659": {
+                "data": "Notes"
+            },
+            "value660": {
+                "data": "View note"
+            },
+            "value661": {
+                "data": "Note"
+            },
+            "value662": {
+                "data": "Yes"
+            },
+            "value663": {
+                "data": "No"
+            },
+            "value664": {
+                "data": "New"
+            },
+            "value665": {
+                "data": "Delete"
+            },
+            "value666": {
+                "data": "Page"
+            },
+            "value667": {
+                "data": "Add"
+            },
+            "value668": {
+                "data": "Cancel"
+            },
+            "value669": {
+                "data": "Are you sure you want to delete these notes?"
+            },
+            "value670": {
+                "data": "New note"
+            },
+            "value671": {
+                "data": "Bookmark"
+            },
+            "value672": {
+                "data": "Are you sure you want to delete these bookmarks?"
+            },
+            "value673": {
+                "data": "New bookmark"
+            },
+            "value674": {
+                "data": "Share via"
+            },
+            "value675": {
+                "data": "Yourself"
+            },
+            "value676": {
+                "data": "Friend"
+            },
+            "value677": {
+                "data": "Download the offline version?"
+            },
+            "value678": {
+                "data": "Slide"
+            },
+            "value679": {
+                "data": "Flip"
+            },
+            "value680": {
+                "data": "Pause"
+            },
+            "value681": {
+                "data": "Play"
+            },
+            "value682": {
+                "data": "Volume"
+            },
+            "value683": {
+                "data": "Click to play"
+            },
+            "value684": {
+                "data": "Clear Results"
+            },
+            "value685": {
+                "data": "Are you sure you want to close the digital magazine?"
+            },
+            "value686": {
+                "data": "Alert"
+            },
+            "value687": {
+                "data": "File"
+            },
+            "value688": {
+                "data": "could not be found."
+            },
+            "value689": {
+                "data": "Ok"
+            },
+            "value690": {
+                "data": "Warning"
+            },
+            "value691": {
+                "data": "Text cannot be entered in fullscreen mode. Would you like to exit fullscreen mode?"
+            },
+            "value692": {
+                "data": "Click and drag note to its location."
+            },
+            "value693": {
+                "data": "Paragraph"
+            },
+            "value694": {
+                "data": "About Us"
+            },
+            "value695": {
+                "data": "3DIssue was designed to ensure that publishers would be able to convert their PDFs to flash magazines without the need of hiring specialist services."
+            },
+            "value696": {
+                "data": "This feature is not available in fullscreen mode. Would you like to exit fullscreen mode?"
+            },
+            "value697": {
+                "data": "Save login details"
+            },
+            "value731": {
+                "data": "This feature is not available in Preview mode"
+            },
+            "value732": {
+                "data": "No page(s) selected to print."
+            },
+            "value733": {
+                "data": "You must select at least one of the options to email 'yourself' or a 'friend'."
+            },
+            "value734": {
+                "data": "Some information is missing. Please fill in all fields before clicking submit."
+            },
+            "value735": {
+                "data": "Enter the details of your new bookmark below:"
+            },
+            "value736": {
+                "data": "No bookmark(s) selected. Please select at least one bookmark before proceeding."
+            },
+            "value737": {
+                "data": "Reached quota limit for bookmark storage. Cannot add any more bookmarks."
+            },
+            "value741": {
+                "data": "Page Transition"
+            },
+            "value742": {
+                "data": "Information"
+            },
+            "value743": {
+                "data": "Presentation"
+            },
+            "value744": {
+                "data": "selected"
+            },
+            "value745": {
+                "data": "Bookmark Current Page"
+            },
+            "value746": {
+                "data": "This page is already bookmarked"
+            },
+            "value747": {
+                "data": "of"
+            },
+            "value748": {
+                "data": "Add note"
+            },
+            "value750": {
+                "data": "NEXT PAGE"
+            },
+            "value751": {
+                "data": "PREVIOUS PAGE"
+            },
+            "value752": {
+                "data": "Click anywhere on a page to zoom."
+            },
+            "value753": {
+                "data": "Click on"
+            },
+            "value754": {
+                "data": "Buttons"
+            },
+            "value755": {
+                "data": "Hotspots"
+            },
+            "value756": {
+                "data": "for interactive features"
+            },
+            "value757": {
+                "data": "and"
+            },
+            "value758": {
+                "data": "(Click anywhere to close overlay)"
+            },
+            "value759": {
+                "data": "Click and drag a corner to turn a page"
+            },
+            "value760": {
+                "data": "Click and drag to turn page"
+            },
+            "value761": {
+                "data": "PAGE THUMBNAILS"
+            },
+            "value762": {
+                "data": "PAGE BUTTONS"
+            },
+            "value763": {
+                "data": "Click on a thumbnail to jump to that page"
+            },
+            "value764": {
+                "data": "Enter page number to jump to that page or click on navigation buttons"
+            },
+            "value765": {
+                "data": "Would you like to view this in the"
+            },
+            "value766": {
+                "data": "Select All"
+            },
+            "value767": {
+                "data": "Select None"
+            },
+            "value768": {
+                "data": "This feature is not available on 3D Issue's trial hosting. To see this feature in action, please upload to your own domain."
+            },
+            "value769": {
+                "data": "Image gallery"
+            },
+            "value770": {
+                "data": "Username"
+            },
+            "value771": {
+                "data": "Password"
+            },
+            "value772": {
+                "data": "Login"
+            },
+            "value773": {
+                "data": "Forgot Password"
+            },
+            "value774": {
+                "data": "Register"
+            },
+            "value775": {
+                "data": "Login Failed"
+            },
+            "value776": {
+                "data": "Invalid username or password"
+            },
+            "value777": {
+                "data": "Publication does not exist"
+            },
+            "value778": {
+                "data": "Wrong information received"
+            },
+            "value779": {
+                "data": "Too many unsuccessful login attempts. Account has been locked. Please contact publisher."
+            },
+            "value780": {
+                "data": "View"
+            },
+            "value781": {
+                "data": "User Login"
+            },
+            "value782": {
+                "data": "Check this out: "
+            },
+            "value783": {
+                "data": "View cart"
+            },
+            "value784": {
+                "data": "Add to cart"
+            },
+            "value785": {
+                "data": "Enter text here..."
+            },
+            "value786": {
+                "data": "Choose which option you wish to download"
+            },
+            "value787": {
+                "data": "Online media not available locally."
+            },
+            "value788": {
+                "data": "Call:"
+            },
+            "value789": {
+                "data": "HTML5 Animation"
+            },
+            "value790": {
+                "data": "Play Audio"
+            },
+            "value791": {
+                "data": "Page Sound"
+            },
+            "value792": {
+                "data": "Hotspot Sound"
+            },
+            "value793": {
+                "data": "MORE"
+            },
+            "value795": {
+                "data": "Facebook"
+            },
+            "value796": {
+                "data": "RSS"
+            },
+            "value797": {
+                "data": "Twitter"
+            },
+            "value798": {
+                "data": "Google+"
+            },
+            "value799": {
+                "data": "YouTube"
+            },
+            "value800": {
+                "data": "NO CONTENT FOUND"
+            },
+            "value801": {
+                "data": "Unfortunately we cannot seem to find any content from the URL you have chosen."
+            },
+            "value802": {
+                "data": "Feature temporarily unavailable."
+            },
+            "value803": {
+                "data": "Slide Share"
+            },
+            "value804": {
+                "data": "Vimeo"
+            },
+            "value805": {
+                "data": "Flickr"
+            },
+            "value806": {
+                "data": "Article"
+            },
+            "value807": {
+                "data": "Write"
+            },
+            "value808": {
+                "data": "Email Article"
+            },
+            "value809": {
+                "data": "Tumblr"
+            },
+            "value810": {
+                "data": "Get Adobe Flash Player"
+            },
+            "value811": {
+                "data": "It seems you do not have Adobe Flash Player installed. You have been redirected to the HTML5 version."
+            },
+            "value812": {
+                "data": "Autoflip Off"
+            },
+            "value812a": {
+                "data": "Autoflip On"
+            },
+            "value813": {
+                "data": "Clipping tool"
+            },
+            "value815": {
+                "data": "Clip it"
+            },
+            "value816": {
+                "data": "Translate"
+            },
+            "value817": {
+                "data": "Left Page"
+            },
+            "value818": {
+                "data": "Right Page"
+            },
+            "value819": {
+                "data": "Double Page"
+            },
+            "value820": {
+                "data": "Select Language"
+            },
+            "value823": {
+                "data": "Click to read"
+            },
+            "value824": {
+                "data": "Close"
+            },
+            "value826": {
+                "data": "Webpage"
+            }
+        },
+        "value030": {
+            "optimizeIpad": "true",
+            "optimumDPI": "239",
+            "universalAnalytics": "true",
+            "value031": "1256",
+            "value032": "1631",
+            "value034": "0",
+            "value035": "2",
+            "value037": "3",
+            "value038": "4",
+            "value039": "5",
+            "value040": "24",
+            "value051": "intro.png",
+            "value051a": "2",
+            "value051c": "185",
+            "value051d": "162",
+            "value051e": "",
+            "value052a": "0",
+            "value052b": "175",
+            "value052c": "140",
+            "value052d": "0xd19b07",
+            "value052e": "",
+            "value170": "2",
+            "value171": "6",
+            "value173": "false",
+            "value174": "false",
+            "value189": "false",
+            "value190": "false",
+            "value190a": "false",
+            "value194": "php",
+            "value195a": "true",
+            "value195c": "false",
+            "value195d": "false",
+            "value195e": "false",
+            "value195ea": "0",
+            "value195f": "false",
+            "value195g": "true",
+            "value196": "false",
+            "value196u": "false",
+            "value201": "1",
+            "value202": "l2r",
+            "value203": "true",
+            "value204": "0",
+            "value204a": "5000",
+            "value205": "12",
+            "value206": "9",
+            "value207": "false",
+            "value209": "true",
+            "value209a": "false",
+            "value210": "false",
+            "value213a": "0",
+            "value213b": "0",
+            "value213c": "",
+            "value213d": "0x011c43",
+            "value300": "",
+            "value301": "7",
+            "value304": "false",
+            "value306": "6",
+            "value307": "0",
+            "value307a": "false",
+            "value307b": "https://",
+            "value307c": "false",
+            "value307d": "https://",
+            "value307e": "1",
+            "value309": "flip",
+            "value310": "80",
+            "value311": "CA&ES Outlook",
+            "value311b": "CA&ES Outlook",
+            "value311c": "UC Davis CA&ES Outlook",
+            "value311d": "",
+            "value312": "English U.S.",
+            "value313": "",
+            "value314": "false",
+            "value315": "25",
+            "value318": "12",
+            "value318a": "left",
+            "value318b": "thumbnails",
+            "value318c": "0",
+            "value319": "11",
+            "value320": "10",
+            "value322": "1",
+            "value323": "8",
+            "value325": "ffffff",
+            "value325a": "000000",
+            "value326": "true",
+            "value327": "3",
+            "value327a": "3",
+            "value328": "false",
+            "value331": "000000",
+            "value332": "false",
+            "value333": "true",
+            "value334": "true",
+            "value400": "false",
+            "value400a": "4",
+            "value401": "",
+            "value401a": "800",
+            "value401b": "600",
+            "value402": "true",
+            "value500": "true",
+            "value503": "2019Fall-Winter",
+            "value504": "89",
+            "value505": "239",
+            "value506": "3",
+            "value507": "1",
+            "value508": "http://www.3dissue.com/?utm_source=3dissue-logo&utm_medium=referral&utm_campaign=en",
+            "value600": "0",
+            "value601": "0",
+            "value610": "0",
+            "value611": "0",
+            "value701": "989776",
+            "value702": "158656",
+            "value702a": "185487",
+            "value703": "true",
+            "value703a": "158369:158656:185487:2019Fall-Winter",
+            "value704": "",
+            "value705": "1569610626825"
+        }
+    }
+}
