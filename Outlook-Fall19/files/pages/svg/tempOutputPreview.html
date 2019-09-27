@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="PageNo" id="PageNo" content="1">
+	<meta name="ZoomLevel" id="ZoomLevel" content="2">
+	<meta name="Location" id="Location" content="file://localhost//Users/tiara/Library/Application Support/Flipbooks/Temp_3DIssue_1/newissue/files/pages/svg/">
+    <script src="qrc:///PreviewTabSVG/PreviewSVG/jquery-2.1.3.min.js"></script>
+    <script src="qrc:///PreviewTabSVG/PreviewSVG/jquery-ui.min.js"></script>
+    <script src="qrc:///PreviewTabSVG/PreviewSVG/jquery.imagesloaded.js"></script>
+    <style type="text/css" media="screen">
+		#previewImg, #previewSvg {position:absolute;display:inline;}
+		#wrapper{ position: absolute;top: 0;left: 0;width: 100%;height: 100%;overflow:hidden;}
+    </style>
+</head>
+<script>
+		$(document).ready( function()
+	{
+		var pageNo = $("meta[name='PageNo']").attr("content");
+		var zoomLevel = $("meta[name='ZoomLevel']").attr("content");
+		var location = $("meta[name='Location']").attr("content");
+		$('#pageHolder').hide();
+		$('#previewSvg').attr('src', location + pageNo + ".svg").imagesLoaded(function()
+		{
+			$('#previewImg').attr('src', location + pageNo + ".jpg").imagesLoaded(function()
+			{
+				var zoomPosStart;
+				var imgWidth = $('#previewImg')[0].width;
+				var imgHeight = $('#previewImg')[0].height;
+				var dim = [];
+				dim[0] = $('#previewSvg')[0].naturalWidth;
+				dim[1] = $('#previewSvg')[0].naturalHeight;
+				var imgHRatio =  dim[1] / imgHeight;
+				var imgWRatio =  dim[0] /  imgWidth;
+				imgWidth = imgWidth * zoomLevel;
+				imgHeight = imgHeight * zoomLevel;
+				var scaleH ;
+				var scaleW ;
+				if(imgHRatio < imgWRatio)
+				{
+					scaleH = imgWRatio/imgHRatio;
+					scaleW = 1;
+				}
+				else
+				{
+					scaleW = imgHRatio/imgWRatio;
+					scaleH = 1;
+				}
+				$('#previewImg').css({width: imgWidth + 'px', height: imgHeight+ 'px'});
+				$('#previewSvg').css({width: imgWidth + 'px', height: imgHeight + 'px'});
+				$('#pageHolder').css({width: imgWidth + 'px', height: imgHeight + 'px'});
+				$('#wrapper').css({width: imgWidth + 'px', height: imgHeight + 'px'});
+				$('#previewSvg').css(
+				{
+					'transform': 'scale('+ scaleW +', ' + scaleH +')',
+					'-ms-transform': 'scale('+ scaleW +', ' + scaleH +')',
+					'-o-transform': 'scale('+ scaleW +', ' + scaleH +')',
+					'-webkit-transform': 'scale('+ scaleW +', ' + scaleH +')'
+				});
+				$('#pageHolder').show();
+				$('#wrapper').draggable();
+			});
+		});
+	});
+</script>
+<body onresize="window.location=window.location;" style=" margin:0;">
+	<div id="wrapper">
+		<div id="pageHolder">
+			<img id="previewImg">	
+			<img id="previewSvg">
+		</div>
+	</div>
+</body>
+</html>
