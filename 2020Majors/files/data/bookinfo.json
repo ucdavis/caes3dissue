@@ -247,8 +247,7 @@
                     "value025b": "false"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "2",
                     "value016": "645",
                     "value017": "1363",
@@ -260,12 +259,6 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
@@ -473,8 +466,7 @@
                     "value025b": "false"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "3",
                     "value016": "648",
                     "value017": "1030",
@@ -486,12 +478,6 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
@@ -865,8 +851,7 @@
                     "value025b": "false"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "5",
                     "value016": "76",
                     "value017": "1408",
@@ -878,18 +863,11 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "5",
                     "value016": "648",
                     "value017": "1177",
@@ -901,12 +879,6 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
@@ -1077,8 +1049,7 @@
                     "value025b": "false"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "6",
                     "value016": "639",
                     "value017": "1253",
@@ -1090,18 +1061,11 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "6",
                     "value016": "915",
                     "value017": "1109",
@@ -1113,12 +1077,6 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
@@ -1528,8 +1486,7 @@
                     "value025b": "false"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "8",
                     "value016": "70",
                     "value017": "1138",
@@ -1541,18 +1498,11 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
                 {
-                    "value013": "hot",
-                    "value013a": "pvl",
+                    "value013": "pvl",
                     "value014": "8",
                     "value016": "932",
                     "value017": "1202",
@@ -1564,12 +1514,6 @@
                     "value020d": "youtube",
                     "value022": "",
                     "value022a": "",
-                    "value023a": "0xe7cd6c",
-                    "value023b": "0xffffff",
-                    "value024a": "0.40",
-                    "value024b": "0.00",
-                    "value025a": "false",
-                    "value025b": "false",
                     "value028": "640",
                     "value029": "480"
                 },
@@ -2583,7 +2527,7 @@
             "value703": "true",
             "value703a": "158369:158656:185487:MajorsBrochure",
             "value704": "",
-            "value705": "1600897153211"
+            "value705": "1600899903057"
         }
     }
 }
